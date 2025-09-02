@@ -1,1 +1,1 @@
-# outroprojetoempython
+professor so quero dizer uma coisa, sobre o outro projeto em python que eu entreguei, eu entreguei com html e css por que eu sempre fazia isso com o javascript, mas eu tinha me esquecido que para usar o python com esses dois precisa baixar algumas dependencias para ficarem ligados, ne transformar o arquivo py em um servidor enfim eu agora nesse outro eu vo so enviar o arquivo python sem nada ja que imagino que so precise disso por favor eu peço que voce leia isso para entender bem o que foi que eu fiz
